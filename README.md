@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=it22114808&label=Profile%20views&color=0e75b6&style=flat" alt="it22114808" /> </p>
 
-- 🔭 I’m currently Studing in **SLIIT**
+- 🔭 I’m Studing in **SLIIT**
 
 - 🌱 I’m currently learning **Mern Language**
 
