@@ -23,7 +23,7 @@
 <a href="https://linkedin.com/in/buddhima vilochana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="buddhima vilochana" height="40" width="50" /></a>
 <a href="https://fb.com/ag buddhima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ag buddhima" height="40" width="50" /></a>
 <a href="https://instagram.com/buddhimxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="buddhimxx" height="40" width="50" /></a>
-<a href="https://www.youtube.com/c/@dudesdiaries" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@dudesdiaries" height="40" width="50" /></a>
+<a href="https://www.youtube.com/c/dudesdiaries" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dudesdiaries" height="40" width="50" /></a>
 </p>
 
 
