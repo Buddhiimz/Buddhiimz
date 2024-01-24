@@ -20,7 +20,7 @@
 
 <h3 align="center"> Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/buddhima vilochana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="buddhima vilochana" height="60" width="50" /></a>
+<a href="https://linkedin.com/in/buddhima-vilochana-47251328a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="buddhima vilochana" height="60" width="50" /></a>
 <a href="https://fb.com/ag buddhima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ag buddhima" height="60" width="50" /></a>
 <a href="https://instagram.com/buddhimxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="buddhimxx" height="60" width="50" /></a>
 <a href="https://youtube.com/@dudesdiaries?si=jfcxFqXMeFjuRTRg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dudesdiaries" height="60" width="50" /></a>
