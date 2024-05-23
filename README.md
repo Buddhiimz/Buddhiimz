@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Mern Language**
 
-- 📫 How to reach me **buddhima26567@gmail.com**
+- 📫 How to reach me **buddhimma@gmail.com**
 
 - ⚡ Fun fact **I think I'm silent person**
 
