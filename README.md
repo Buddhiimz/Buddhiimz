@@ -5,7 +5,7 @@
 
 - 🔭 I’m Studing in **SLIIT**
 
-- 🌱 I’m currently learning **Mern Language**
+- 🌱 I’m currently learning **Mern Stack and flutter**
 
 - 📫 How to reach me **buddhimma@gmail.com**
 
