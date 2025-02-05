@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Mern Stack and flutter**
 
-- 📫 How to reach me **buddhimma@gmail.com**
+- 📫 How to reach me **buddhima.v.dev@gmail.com**
 
 - ⚡ Fun fact **I think I'm silent person**
 
