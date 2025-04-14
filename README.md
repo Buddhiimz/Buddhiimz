@@ -5,7 +5,7 @@
 
 - 🔭 I’m Studing in **SLIIT**
 
-- 🌱 I’m currently learning **Mern Stack and flutter**
+- 🌱 I’m currently working with **Mern Stack and flutter**
 
 - 📫 How to reach me **buddhima.v.dev@gmail.com**
 
