@@ -6,7 +6,7 @@
 
 - 🔭 I’m Studing in **SLIIT Uni**
 
-- 🌱 I’m currently working with **Mern Stack and flutter**
+- 🌱 I’m currently working with **Mern Stack , Angular and .NET**
 
 - 📫 How to reach me **buddhima.v.dev@gmail.com**
 
